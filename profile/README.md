@@ -1,6 +1,6 @@
 # 🚀 Welcome to **Zolixi**  
 **Crafting Immersive Experiences & Scalable Solutions**  
-*AR/VR Lenses | Shopify Stores | Unity Games*
+*AR/VR Lenses | Web Development | Unity Games*
 
 ---
 
